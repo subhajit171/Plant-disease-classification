@@ -1,1 +1,1 @@
-# Projects
+# Plant disease classification
